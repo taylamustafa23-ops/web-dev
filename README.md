@@ -29,9 +29,12 @@ After i did this i next i needed to change the font of my text,i first go on goo
 
 ![Font image](week_01_images/font-image.png) 
 
-i clicked get font and then i got the embeded code for HTML that google provides
+i clicked get font and then i got the embeded code for HTML that google provides and incerted it into my code 
 
 ![Font image 2](week_01_images/font-image-2.png) 
+
+![Code newfont](week_01_images/code-newfont.png) 
+
 
 This has now changed the apperance of my introduction and title: 
 ![Webpage 2](week_01_images/webpage-2.png) 
