@@ -2,7 +2,7 @@
 Here is where i will be documenting the development of my website as well as the all weekly tasks that i am assigned. 
 
 
-## Task 1 
+## Week 1 
 In todays seminar during hour 2 were tasked with the following: 
 
 ### - Create your first web page (in this class)
