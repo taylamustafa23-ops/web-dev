@@ -36,3 +36,8 @@ i clicked get font and then i got the embeded code for HTML that google provides
 This has now changed the apperance of my introduction and title: 
 ![Webpage 2](week_01_images/webpage-2.png) 
 
+sources used to help change fornt: 
+https://www.youtube.com/watch?v=g15mF_XAOB8
+https://www.w3schools.com/tags/tag_font.asp
+
+
