@@ -33,6 +33,6 @@ i clicked get font and then i got the embeded code for HTML that google provides
 
 ![Font image 2](week_01_images/font-image-2.png) 
 
-This has now changed the apperance of my introduction: 
+This has now changed the apperance of my introduction and title: 
 ![Webpage 2](week_01_images/webpage-2.png) 
 
