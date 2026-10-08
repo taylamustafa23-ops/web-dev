@@ -25,4 +25,14 @@ The code:
 The webpage so far:
 ![Webpage 1](week_01_images/webpage-1.png) 
 
-After i did this i nect needed to 
+After i did this i next i needed to change the font of my text,i first go on google fonts to look at what styles whould suite ny portfolio website best, i wanted something that matched the font used on the colour pallet image and found this font that was similar 
+
+![Font image](week_01_images/font-image.png) 
+
+i clicked get font and then i got the embeded code for HTML that google provides
+
+![Font image 2](week_01_images/font-image-2.png) 
+
+This has now changed the apperance of my introduction: 
+![Webpage 2](week_01_images/webpage-2.png) 
+
