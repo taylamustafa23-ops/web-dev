@@ -11,3 +11,6 @@ In todays seminar during hour 2 were tasked with the following:
 Intro about yourself, styling & organising a poem, song lyrics, book fragment, etc.
 Think about how you want to represent your personality or the selected text as a web page
 use CSS text styling elements, incl. font-face, font, colours, etc.
+
+![Initial webpage code](week_01_images/initial-webpage-code.png) 
+ 
