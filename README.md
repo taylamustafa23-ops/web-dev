@@ -44,6 +44,56 @@ https://www.youtube.com/watch?v=g15mF_XAOB8
 https://www.w3schools.com/tags/tag_font.asp
 
 #### Now that the in class task is completed i can begin week 1s work 
+Make a copy of the task from Hr 2. Make at least 1 new version of it and make the text easy to read according to the guidelines from resources below.
+
+Think about:
+- font size
+
+- colours 
+
+- contrast
+
+- line length
+
+- line spacing
+
+- semantic structure: include at least section, 2 header levels, paragraph tags.
+
+- Add an image to the page and ensure to add alt text.
+
+
+
+In the documentation, include ~200 words on: 
+screenshots of the different page versions
+a description of what you did
+a reflection on how the accessibility & readability of your page changed.
+
+Points of improvements: 
+
+As someone who is dyslexic there are some immediate factors that can be altered to make it a little more accessible. 
+
+- text size 
+- text placement 
+- site structure 
+- line spacing 
+- font 
+- potentially colour pallet
+
+
+### Text size 
+Currently my web page title and about me section is quite small, this makes it hard to see what is written and hard to navigate the site. 
+
+I first changed the size of my header i experimented with a few diffrent sizes 
+
+#### Size 90px: 
+![Font size ver 1](week_01_images/font-size-ver1.png) 
+![Webpage font version 1](week_01_images/webpage-font-ver1.png)
+
+#### Size 
+
+
+
+
 
 
 
