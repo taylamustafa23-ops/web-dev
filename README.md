@@ -87,10 +87,21 @@ I first changed the size of my header i experimented with a few diffrent sizes
 
 #### Size 90px: 
 ![Font size ver 1](week_01_images/font-size-ver1.png) 
+
 ![Webpage font version 1](week_01_images/webpage-font-ver1.png)
 
-#### Size 
+#### Size 80px: 
 
+![Font 80px](week_01_images/font-80px.png)
+
+![Webpage 80px](week_01_images/webpage-80px.png)
+
+#### Size 60px:
+![Font 60px](week_01_images/font-60px.png)
+
+![Webpage 60px](week_01_images/webpage-60px.png)
+
+After experimenting with a few diffrent sizes i have decided to make my header 90px size as 80xp doesnt make a crazy diffrence sizewise compared to the 90px and the 60px is too small 
 
 
 
