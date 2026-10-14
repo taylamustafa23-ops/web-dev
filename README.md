@@ -109,6 +109,15 @@ Now im going to change the text size of my about me section similar to my title 
 ![Webpage 35px](week_01_images/webpage-35px.png)
 
 #### Size 25px: 
+![Font 25px](week_01_images/font-25px.png)
+![Webpage 25px](week_01_images/webpage-25px.png)
+
+#### Size 15px: 
+![Font 15px](week_01_images/font-15px.png)
+![Webpage 15px](week_01_images/webpage-15px.png)
+
+After experimenting with a few diffrent font sizes i decided to go for the 35px as its the biggest and clearest to see, although the 25px isnt considerable different from the 35px i do believe porpotionately it doesnt look the best on the screen additionally the 15px is way too small, is hard to read and isnt much diffrent compaired to the origional text size. 
+
 
 
 
