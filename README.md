@@ -73,8 +73,7 @@ Points of improvements:
 As someone who is dyslexic there are some immediate factors that can be altered to make it a little more accessible. 
 
 - text size 
-- text placement 
-- site structure 
+- text placement/site structure 
 - line spacing 
 - font 
 - potentially colour pallet
@@ -102,6 +101,19 @@ I first changed the size of my header i experimented with a few diffrent sizes
 ![Webpage 60px](week_01_images/webpage-60px.png)
 
 After experimenting with a few diffrent sizes i have decided to make my header 90px size as 80xp doesnt make a crazy diffrence sizewise compared to the 90px and the 60px is too small 
+
+Now im going to change the text size of my about me section similar to my title ive tested out a few diffrent sizes 
+
+#### Size 35px: 
+![Font 35px](week_01_images/font-35px.png)
+![Webpage 35px](week_01_images/webpage-35px.png)
+
+#### Size 25px: 
+
+
+
+
+
 
 
 
