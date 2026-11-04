@@ -119,6 +119,11 @@ Now im going to change the text size of my about me section similar to my title 
 After experimenting with a few diffrent font sizes i decided to go for the 35px as its the biggest and clearest to see, although the 25px isnt considerable different from the 35px i do believe porpotionately it doesnt look the best on the screen additionally the 15px is way too small, is hard to read and isnt much diffrent compaired to the origional text size. 
 
 
+### Text placement/ Line length
+
+Now that ive changed the font size and made the whole about me section more readable now i can start to alter the text placemet/line length. 
+This will help make the site look more professional and 
+
 
 
 
