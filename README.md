@@ -119,18 +119,71 @@ Now im going to change the text size of my about me section similar to my title 
 After experimenting with a few diffrent font sizes i decided to go for the 35px as its the biggest and clearest to see, although the 25px isnt considerable different from the 35px i do believe porpotionately it doesnt look the best on the screen additionally the 15px is way too small, is hard to read and isnt much diffrent compaired to the origional text size. 
 
 
-### Text placement/ Line length
+### Line length
 
 Now that ive changed the font size and made the whole about me section more readable now i can start to alter the text placemet/line length. 
-This will help make the site look more professional and 
+This will help make the site look more professional and more put together. 
+
+To start i want to shorten my line length so that the introduction doesnt streach across the whole of my page. 
+
+To do this i first started by introducing a max width, this will controll how far the text will strech across the screen, i then made the max width 45 characters, i then made the text align to the left so that the text stays to the left side of the screen. 
+
+![Text length](week_01_images/text-length.png)
+
+![Text length 1](week_01_images/text-length-1%20.png)
 
 
+### Line spacing 
+Now i need to alter the line spacing in my introduction, to do this i got to my paragraphy tag and add the line height and then experimented with diffrent sizes  
+
+![Line length 1.6](week_01_images/line-length-1.6.png)
+
+![Line length 1](week_01_images/line-length-1.png)
+
+#### Line length 1.5 
+
+![Line length 1.5](week_01_images/line-length-1.5.png)
+
+![Line length 2](week_01_images/line-length-2.png)
 
 
+#### Line Length 1.4 
+
+![Line length 1.4](week_01_images/line-length-1.4.png)
+
+![Line length 3](week_01_images/line-length-3.png)
+
+After testing a few diffrent sizes ive decided to go with the 1.5 as it makes the text a lot easier to read without having the text take up the whole page. 
+
+### Page structure and Organisation 
+
+Now i need to organise the page and give the website more of a structure, my code already has 1 heading and paragraph, however to follow todays task i need to add another heading and a section tag. 
+
+i start by putting a section tag above the first heading and last paragraph tag, i them made the About me: within my paragraph into a second heading by putting < h2 > nect to it. after doing this, this is what my webpage looks like. 
 
 
+![Structure1](week_01_images/structure1.png)
+![Structure 1](week_01_images/structure_1.png)
 
+After making these changes ive ran across a few issues:
+- text runs across the screen 
+- text is now smaller 
+- no more text spacing as the text now runs across the screen 
 
+After looking at my code i realised that this was happening due to me keeping the about me heading with my paragraph section to fix this i jost moved the about me under the fist heading (above the paragaph)
 
+#### Now this is what the webpage is looking:
+
+![Structure2](week_01_images/structure2.png)
+
+Now that things are back to normal i want to alter the text size of the about me heading just so that its a little clearer 
+
+![Structure3](week_01_images/structure3.png)
+![Structure3](week_01_images/structure_3.png)
+
+Now that i can clearly differentiate between header1,2 and the paragraph i want to fix the spacing between the paragraph and about me header, i think the gap between the two makes the page look seperated and overall disorganised. To fix this i introduced a margin top to my paragraph styling, this will bring the text closer to the header and a margin bottom to the 2nd header to get rid of the extra space below the heading 
+
+![Structure4](week_01_images/structure4.png)
+![Structure4](week_01_images/structure-4.png)
 
 
