@@ -186,4 +186,31 @@ Now that i can clearly differentiate between header1,2 and the paragraph i want 
 ![Structure4](week_01_images/structure4.png)
 ![Structure4](week_01_images/structure-4.png)
 
+### Colour Contrast 
+Now i need to alter the colour scheme of my site so that the information on the site is easier to read. 
+Its suggested that soft colours with a high contrast text works best for accessibility and improves the visibility of information on sites.
 
+Currrently i have a very soft colour scheme with low contrast which may make reading the difficust. To check if theres enough of a contrast between the two colours i used this site: https://webaim.org/resources/contrastchecker/ 
+
+This is a contrast checker that helps identify how readable text will be agaist certain background colours and compairs the contrast to the web accessibility standard, this is an extremely helpful tool as it allows me to make a more conciouse decision based off of the readability of the text rather tjan the aesthetics of the site. With the help of this tool i can now make the needed changes to make the website more accessiblt to those with learning diffrences or visual imapirments. 
+
+I first started by testing the contrast between the my first header and the background colour
+
+![Contrast 1](week_01_images/contrast1.png)
+
+
+This shows that the yellow colour passes for larger fonts which is perfect for my header, however this font colour wouldnt work for smaller text like my about me section. 
+As the colour passed the contrast test for larger text ive decided to keep the colour of my first header the same. 
+
+Next i tested the contrast between the black text (about me section) to the background 
+![Contrast 2](week_01_images/contrast2.png)
+
+The black did not pass the contrast text for small text so that needs to be changed, as softer colours are prefered i wanted to see how white would test incomparison to the black 
+
+![Contrast 3](week_01_images/contrast3.png)
+
+Based of off the results, white scores way higher in comparison to the black so ive decided to change my intro text to white to imporove the readability of the text abd the overall accessibility of the site 
+
+![Contrast 4](week_01_images/contrast4.png)
+
+![Contrast 5](week_01_images/contrast5.png)
