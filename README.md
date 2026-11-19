@@ -214,3 +214,32 @@ Based of off the results, white scores way higher in comparison to the black so 
 ![Contrast 4](week_01_images/contrast4.png)
 
 ![Contrast 5](week_01_images/contrast5.png)
+
+### Adding an image 
+Now i need to add an imaage i intentially left a lot of blank space on the right side of my site as i really liked the layout of this website i saw on pinterest and wanted to do something similar to it 
+
+![ Inspo ](week_01_images/inspo.jpg)
+
+I found this lace heart on this site: 
+
+![ heart doawnload ](week_01_images/heart-download.png)
+
+To put the image in i forst start by adding a image tag in my section area of my code, unlike a regular image tag i have to use ../ at the begining of mine, this will go make the browser look in the web dev folder inorder to find my images folder where my heart png is saved 
+![ image input ](week_01_images/image-input%20.png)
+
+#### website now (zoomed out so everything can be seen not the actual proportions of the website)
+
+![ web heart1 ](week_01_images/web-heart1.png)
+
+Originally i wanted the heart to be on right to make this happen i moved the image tag avobe the paragraph tag and and added a float right tag to the end of it, this successfully moved the heart to where i was=nted it to be i also added and updated my notsjusty so that mky code is a little easier to navigate 
+
+![ final week1](week_01_images/final-week1.png)
+
+![ week1 last image](week_01_images/week1-last-image.png)
+
+
+
+
+
+
+
