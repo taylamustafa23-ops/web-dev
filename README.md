@@ -238,6 +238,32 @@ Originally i wanted the heart to be on right to make this happen i moved the ima
 ![ week1 last image](week_01_images/week1-last-image.png)
 
 
+#### Task reflection 
+when comparing my original webpage to my accessible version it clear to see there have been some drastic changes with the overall layput of the page and how my information has been presented.
+ 
+ ##### The main accessibility issues that my orignal website had was:
+
+ -  text size and font were not easily readable as they were
+ -  the diffrent sections of the page (title, about me) were not easy to differentiate
+ - there wasnt much of a contrast between the text colour and the background 
+  - thgere was limited line spacinmg and the text streched across the whole of the webpage
+
+ As someone with dyslexia these issues made the site really hard to navigate and reading the about me section was extremely difficult
+
+ ##### With the accessible version i fixed these issues by: 
+ - makeing the font of my header about me and intro bigger so that the text is easier to read 
+ - created multiple headers to make the formatting of the page easier to naviage 
+ - change the contrast of the about me and intro to white so that there was a higher contrast between the text and the background 
+ - altered the line spacing to make the text look less congested and make the information overall easier to read 
+ - changed the text formatting so that the information wouldnt strech across the whole webpage, this makes reading easier and makes the site overall look
+ - ive also inputed an image with alt text so that those woith screen readers can still navigate the site 
+
+ With these improvements the webpage is easier to navigate, text is clearer to see and better formatted, the site is less congested overall improving the acessibility of the site  
+ 
+
+ 
+
+
 
 
 
